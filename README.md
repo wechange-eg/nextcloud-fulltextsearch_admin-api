@@ -1,2 +1,1 @@
-# nextcloud-custom-apps
-Custom apps for nextcloud
+# nextcloud-fulltextsearch_admin-api
