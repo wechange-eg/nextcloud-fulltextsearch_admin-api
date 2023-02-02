@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace OCA\FullTextSearch_AdminAPI\Controller;
 
-use daita\MySmallPhpTools\Traits\Nextcloud\TNCDataResponse;
+use ArtificialOwl\MySmallPhpTools\Traits\Nextcloud\TNCDataResponse;
 use Exception;
 use OCA\FullTextSearch\AppInfo\Application;
 use OCA\FullTextSearch\Model\SearchRequest;
